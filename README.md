@@ -18,13 +18,14 @@
 <h2>✨ Quick Features</h2>
 
 <ul>
+  <li>🔐 <b>Security Feature</b> – Launch Jarvis only for those whose faces are registered</li>
   <li>🎙️ <b>Voice & Text Commands</b> – Speak or type naturally</li>
   <li>💻 <b>Launch Apps</b> – Open programs instantly</li>
   <li>📞 <b>Phone Integration</b> – Make and manage calls via Android</li>
   <li>🌐 <b>Web & Media Access</b> – Open URLs, play YouTube/Spotify</li>
   <li>📔 <b>Built-in Phone Book & Personalization</b> – Store contacts & preferences</li>
   <li>🌤️ <b>Weather Updates</b> – Real-time info at your fingertips</li>
-  <li>🤖 <b>Chat Interaction</b> – Talk to Jarvis like a friendly AI assistant</li>
+  <li>🤖 <b>AI Chat Interaction</b> – Talk to Jarvis like a friendly AI assistant</li>
 </ul>
 
 ---
@@ -35,7 +36,7 @@
   <li>Start Jarvis – Launch the assistant on your desktop with secure face authentication facility.</li>
   <li>Give Commands – Speak or type instructions such as opening apps, checking the weather, or sending messages.</li>
   <li>Instant Actions – Jarvis executes commands on your PC or connected mobile.</li>
-  <li>Interactive Feedback – The assistant responds via voice or UI prompts.</li>
+  <li>Interactive Feedback – The AI assistant responds via voice or UI prompts using GPT-based models.</li>
 </ol>
 
 ---
@@ -60,17 +61,6 @@
     <td>Stores user information, phone book, and preferences</td>
   </tr>
 </table>
-
----
-
-<h2>💡 Future Enhancements</h2>
-
-<ul>
-  <li>Multi-language voice support</li>
-  <li>Smart home device integration</li>
-  <li>Advanced AI responses with GPT-based models</li>
-  <li>Expanded mobile features beyond Android calls</li>
-</ul>
 
 ---
 
