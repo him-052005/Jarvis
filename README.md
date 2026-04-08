@@ -32,7 +32,7 @@
 <h2>🚀 How Jarvis Works</h2>
 
 <ol>
-  <li>Start Jarvis – Launch the assistant on your desktop.</li>
+  <li>Start Jarvis – Launch the assistant on your desktop with secure face authentication facility.</li>
   <li>Give Commands – Speak or type instructions such as opening apps, checking the weather, or sending messages.</li>
   <li>Instant Actions – Jarvis executes commands on your PC or connected mobile.</li>
   <li>Interactive Feedback – The assistant responds via voice or UI prompts.</li>
