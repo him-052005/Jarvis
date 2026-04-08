@@ -1,1 +1,0 @@
-cursor.execute("ALTER TABLE contacts ADD COLUMN address VARCHAR(255)")
