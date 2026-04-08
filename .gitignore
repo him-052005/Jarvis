@@ -5,3 +5,6 @@ jarvis.db
 /engine/cookies.json
 requirements.txt
 backup_requirements.txt
+/engine/config.py
+/engine/temp_CodeRunnerFile.py
+tempCodeRunnerFile.py
