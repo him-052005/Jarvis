@@ -1,11 +1,14 @@
+import speech_recognition as sr
 import os
 import eel
 
 from engine.features import *
 from engine.command import *
 from engine.auth import recoganize
+
+
 def start():
-    
+
     eel.init("www")
 
     playAssistantSound()

@@ -148,7 +148,7 @@ def whatsApp(mobile_no, message, flag, name):
     else:
         target_tab = 14
         message = ''
-        jarvis_message = "staring video call with "+name
+        jarvis_message = "starting video call with "+name
 
 
     # Encode the message for URL
