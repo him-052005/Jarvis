@@ -15,7 +15,7 @@
 
 ---
 
-<h2>✨ Quick Features</h2>
+<h2>✨ Quick Features at a Glance</h2>
 
 <ul>
   <li>🔐 <b>Security Feature</b> – Launch Jarvis only for those whose faces are registered</li>
@@ -24,45 +24,114 @@
   <li>📞 <b>Phone Integration</b> – Make and manage calls via Android</li>
   <li>🌐 <b>Web & Media Access</b> – Open URLs, play YouTube/Spotify</li>
   <li>📔 <b>Built-in Phone Book & Personalization</b> – Store contacts & preferences</li>
-  <li>🌤️ <b>Weather Updates</b> – Real-time info at your fingertips</li>
-  <li>🤖 <b>AI Chat Interaction</b> – Talk to Jarvis like a friendly AI assistant</li>
+  <li>🌤️ <b>Live Updates</b> – Real-time info at your fingertips</li>
+  <li>🤖 <b>AI Chat Interaction</b> – LLM-powered smart conversations</li>
 </ul>
 
 ---
 
-<h2>🚀 How Jarvis Works</h2>
+<h2>⚡ How Jarvis Comes to Life?</h2>
 
-<ol>
-  <li>Start Jarvis – Launch the assistant on your desktop with secure face authentication facility.</li>
-  <li>Give Commands – Speak or type instructions such as opening apps, checking the weather, or sending messages.</li>
-  <li>Instant Actions – Jarvis executes commands on your PC or connected mobile.</li>
-  <li>Interactive Feedback – The AI assistant responds via voice or UI prompts using GPT-based models.</li>
-</ol>
+<p>
+  🟢 <b>Step 1 – Identity Check</b><br>
+  Jarvis starts with a secure <b>face recognition system</b>, ensuring only you can access your assistant.
+</p>
 
----
+<p>
+  🎤 <b>Step 2 – Speak Freely</b><br>
+  Give commands naturally like:<br>
+  <i>“Open Chrome” • “Play music” • “What’s the weather?”</i>
+</p>
+
+<p>
+  🧠 <b>Step 3 – AI Processing</b><br>
+  Your command is analyzed using <b>LLM-powered intelligence</b>, so Jarvis understands intent—not just keywords.
+</p>
+
+<p>
+  ⚙️ <b>Step 4 – Instant Execution</b><br>
+  Jarvis performs actions across your <b>PC and mobile</b> in real-time.
+</p>
+
+<p>
+  🔊 <b>Step 5 – Smart Response</b><br>
+  Get feedback via voice + UI with natural, conversational replies.
+</p>
+
+<hr>
+
+<h2>🧠 Behind the Intelligence</h2>
+
+<ul>
+  <li>💡 <b>Hybrid Architecture</b> – Rule-based automation + AI reasoning</li>
+  <li>🔄 <b>Real-Time Processing</b> – Fast command execution pipeline</li>
+  <li>🧩 <b>Modular Design</b> – Easy to scale and extend</li>
+  <li>📊 <b>Data Storage</b> – Stores contacts, preferences, and usage</li>
+</ul>
+
+<hr>
+
+<h2>🧠 System Architecture</h2>
+
+<pre>
+User Input (Voice/Text)
+        ↓
+ Speech Recognition
+        ↓
+ AI + Command Engine
+        ↓
+ Action Executor
+        ↓
+ Voice + UI Output
+</pre>
+
+<hr>
+
+<h2>🔥 What Makes Jarvis Powerful?</h2>
+
+<ul>
+  <li>🧠 <b>Hybrid Intelligence</b> – Combines rule-based automation with AI reasoning</li>
+  <li>⚡ <b>Real-Time Processing</b> – Fast and responsive execution</li>
+  <li>🔐 <b>Security First</b> – Face authentication layer</li>
+  <li>🧩 <b>Modular Design</b> – Easy to scale and extend</li>
+</ul>
+
+<hr>
+
+<h2>💡 Example Commands</h2>
+
+<ul>
+  <li>🎧 “Play music” → Starts media instantly</li>
+  <li>🌦️ “What’s the weather?” → Real-time updates</li>
+  <li>💻 “Open Chrome” → Launches application</li>
+  <li>📞 “Call John” → Uses mobile integration</li>
+  <li>🤖 “Explain recursion” → AI-generated response</li>
+</ul>
+
+<hr>
 
 <h2>🛠️ Tech Stack</h2>
 
 <table>
   <tr>
-    <td>Python</td>
-    <td>Core assistant logic, command processing, and AI functionality</td>
+    <td>🐍 <b>Python</b></td>
+    <td>Core logic, AI integration, automation engine</td>
   </tr>
   <tr>
-    <td>Node.js</td>
-    <td>Optional backend integration and server-side tasks</td>
+    <td>🌐 <b>Node.js</b></td>
+    <td>Backend services & API handling</td>
   </tr>
   <tr>
-    <td>HTML / CSS / JavaScript</td>
-    <td>Interactive, responsive, and visually appealing frontend interface</td>
+    <td>🎨 <b>HTML / CSS / JavaScript</b></td>
+    <td>Interactive frontend UI</td>
   </tr>
   <tr>
-    <td>MySQL</td>
-    <td>Stores user information, phone book, and preferences</td>
+    <td>🗄️ <b>MySQL</b></td>
+    <td>Stores user data, contacts & preferences</td>
   </tr>
 </table>
 
----
+<hr>
 
 <h2>🎉 Live Demo / Screenshots</h2>
 
@@ -81,5 +150,30 @@
   
   <li>📲 <a href="https://drive.google.com/file/d/1l1jQ-SRIacW19EAgfkBbgBzMqlZXo5zY/view?usp=drive_link" target="_blank">Call on Android</a></li>
 
-  <li>💬 <a href="https://drive.google.com/file/d/1vMRcwMW4iPj9xCuxOLGJeoV4zJNaPEXx/view?usp=drive_link" target="_blank">Chat History</a></li>
+  <li>💬 <a href="https://drive.google.com/file/d/1Hs-wFzKJVTvqswRJQ5F5nL79WeYTaJzC/view?usp=drive_link" target="_blank">Chat History</a></li>
+
+  <li>⚙️ <a href="https://drive.google.com/file/d/1O_FgJc4nqlWMkrDqBoJ3hYwSZ0fFb0h6/view?usp=drive_link" target="_blank">Settings Pane</a></li>
+
+  <li>🧬 <a href="https://drive.google.com/file/d/12LffkBbjm7es894gZrDnNboEK7pAZ7TX/view?usp=drive_link" target="_blank">AI-LLM Integration</a></li>
+
   </ul>
+
+<hr>
+
+<h2>🤝 Contributing</h2>
+
+<p>
+Contributions are welcome! Feel free to fork this repository and submit pull requests.
+</p>
+
+<hr>
+
+<h2>🌟 Show Your Support</h2>
+
+<p>
+If you like this project, consider giving it a ⭐ on GitHub!
+</p>
+
+<hr>
+
+<h2 align="center">💬 “Your voice is the command. Jarvis makes it happen.”</h2>
